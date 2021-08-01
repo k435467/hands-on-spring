@@ -1,5 +1,5 @@
 # hands-on-spring
- 
+
 ## Quick Start
 
 Hands on the [tutorial](https://spring.io/quickstart).
@@ -14,3 +14,9 @@ This guide walks you through the process of creating a “Hello, World” RESTfu
 
 - Create a Resource Representation Class
 - Create a Resource Controller
+
+## Spring Boot
+
+Hands on the [tutorial](https://spring.io/guides/gs/spring-boot/#scratch). Building an Application with Spring Boot.
+
+This guide is meant to give you a quick taste of Spring Boot.
