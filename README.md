@@ -20,3 +20,8 @@ This guide walks you through the process of creating a “Hello, World” RESTfu
 Hands on the [tutorial](https://spring.io/guides/gs/spring-boot/#scratch). Building an Application with Spring Boot.
 
 This guide is meant to give you a quick taste of Spring Boot.
+
+- Create a Simple Web Application
+- Create an Application Class
+- Add Unit Test
+- Add Production-grade Services
