@@ -39,4 +39,3 @@ Hands on the [tutorial](https://spring.io/guides/gs/accessing-data-jpa/). Access
 - Define a Simple Entity
 - Create Simple Queries
 - Create an Application Class
-
