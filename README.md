@@ -36,6 +36,8 @@ This guide is meant to give you a quick taste of Spring Boot.
 
 Hands on the [tutorial](https://spring.io/guides/gs/accessing-data-jpa/). Accessing Data with JPA.
 
+This guide walks you through the process of building an application that uses Spring Data JPA to store and retrieve data in a relational database.
+
 - Define a Simple Entity
 - Create Simple Queries
 - Create an Application Class
