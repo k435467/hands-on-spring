@@ -1,5 +1,11 @@
 # hands-on-spring
 
+- [hands-on-spring](#hands-on-spring)
+  - [Quick Start](#quick-start)
+  - [REST service](#rest-service)
+  - [Spring Boot](#spring-boot)
+  - [Accessing Data JPA](#accessing-data-jpa)
+
 ## Quick Start
 
 Hands on the [tutorial](https://spring.io/quickstart).
@@ -25,3 +31,6 @@ This guide is meant to give you a quick taste of Spring Boot.
 - Create an Application Class
 - Add Unit Test
 - Add Production-grade Services
+
+## Accessing Data JPA
+
