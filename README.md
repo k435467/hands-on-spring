@@ -71,3 +71,7 @@ Hands on the [tutorial](https://spring.io/guides/gs/accessing-data-rest/). Acces
 - Rest Repositories
 
 This guide walks you through the process of creating an application that accesses relational JPA data through a hypermedia-based RESTful front end.
+
+- Create a Domain Object
+- Create a Person Repository
+- Test the Application (with curl)
