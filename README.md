@@ -6,6 +6,7 @@
   - [Spring Boot](#spring-boot)
   - [Accessing Data JPA](#accessing-data-jpa)
   - [Accessing Data REST](#accessing-data-rest)
+  - [Managing Transactions](#managing-transactions)
 
 ## Quick Start
 
@@ -75,3 +76,14 @@ This guide walks you through the process of creating an application that accesse
 - Create a Domain Object
 - Create a Person Repository
 - Test the Application (with curl)
+
+## Managing Transactions
+
+Hands on the [tutorial](https://spring.io/guides/gs/managing-transactions/). Managing Transactions.
+
+**Dependencies:**
+
+- Spring Data JDBC
+- H2 Database
+
+This guide walks you through the process of wrapping database operations with non-intrusive transactions.
