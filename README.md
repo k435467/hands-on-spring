@@ -5,16 +5,25 @@
   - [REST service](#rest-service)
   - [Spring Boot](#spring-boot)
   - [Accessing Data JPA](#accessing-data-jpa)
+  - [Accessing Data REST](#accessing-data-rest)
 
 ## Quick Start
 
 Hands on the [tutorial](https://spring.io/quickstart).
+
+**Dependencies:**
+
+- Spring Web
 
 You will build a classic “Hello World!” endpoint which any browser can connect to. You can even tell it your name, and it will respond in a more friendly way.
 
 ## REST service
 
 Hands on the [tutorial](https://spring.io/guides/gs/rest-service/#scratch). Building a RESTful Web Service.
+
+**Dependencies:**
+
+- Spring Web
 
 This guide walks you through the process of creating a “Hello, World” RESTful web service with Spring.
 
@@ -24,6 +33,10 @@ This guide walks you through the process of creating a “Hello, World” RESTfu
 ## Spring Boot
 
 Hands on the [tutorial](https://spring.io/guides/gs/spring-boot/#scratch). Building an Application with Spring Boot.
+
+**Dependencies:**
+
+- Spring Web
 
 This guide is meant to give you a quick taste of Spring Boot.
 
@@ -36,8 +49,25 @@ This guide is meant to give you a quick taste of Spring Boot.
 
 Hands on the [tutorial](https://spring.io/guides/gs/accessing-data-jpa/). Accessing Data with JPA.
 
+**Dependencies:**
+
+- Spring Data JPA
+- H2 Database
+
 This guide walks you through the process of building an application that uses Spring Data JPA to store and retrieve data in a relational database.
 
 - Define a Simple Entity
 - Create Simple Queries
 - Create an Application Class
+
+## Accessing Data REST
+
+Hands on the [tutorial](https://spring.io/guides/gs/accessing-data-rest/). Accessing JPA Data with REST.
+
+**Dependencies:**
+
+- H2 Database
+- Spring Data JPA
+- Rest Repositories
+
+This guide walks you through the process of creating an application that accesses relational JPA data through a hypermedia-based RESTful front end.
