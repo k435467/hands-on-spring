@@ -115,3 +115,7 @@ Hands on the [tutorial](https://spring.io/guides/gs/messaging-stomp-websocket/).
 - WebSocket
 
 This guide walks you through the process of creating a “Hello, world” application that sends messages back and forth between a browser and a server.
+
+- Create a Resource Representation Class
+- Create a Message-handling Controller
+- Configure Spring for STOMP messaging
