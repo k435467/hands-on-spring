@@ -14,7 +14,7 @@
 
 ## Quick Start
 
-Hands on the [tutorial](https://spring.io/quickstart).
+Hands-on the [tutorial](https://spring.io/quickstart).
 
 **Dependencies:**
 
@@ -24,7 +24,7 @@ You will build a classic “Hello World!” endpoint which any browser can conne
 
 ## REST service
 
-Hands on the [tutorial](https://spring.io/guides/gs/rest-service/#scratch). Building a RESTful Web Service.
+Hands-on the [tutorial](https://spring.io/guides/gs/rest-service/#scratch). Building a RESTful Web Service.
 
 **Dependencies:**
 
@@ -37,7 +37,7 @@ This guide walks you through the process of creating a “Hello, World” RESTfu
 
 ## Spring Boot
 
-Hands on the [tutorial](https://spring.io/guides/gs/spring-boot/#scratch). Building an Application with Spring Boot.
+Hands-on the [tutorial](https://spring.io/guides/gs/spring-boot/#scratch). Building an Application with Spring Boot.
 
 **Dependencies:**
 
@@ -52,7 +52,7 @@ This guide is meant to give you a quick taste of Spring Boot.
 
 ## Accessing Data JPA
 
-Hands on the [tutorial](https://spring.io/guides/gs/accessing-data-jpa/). Accessing Data with JPA.
+Hands-on the [tutorial](https://spring.io/guides/gs/accessing-data-jpa/). Accessing Data with JPA.
 
 **Dependencies:**
 
@@ -67,7 +67,7 @@ This guide walks you through the process of building an application that uses Sp
 
 ## Accessing Data REST
 
-Hands on the [tutorial](https://spring.io/guides/gs/accessing-data-rest/). Accessing JPA Data with REST.
+Hands-on the [tutorial](https://spring.io/guides/gs/accessing-data-rest/). Accessing JPA Data with REST.
 
 **Dependencies:**
 
@@ -83,7 +83,7 @@ This guide walks you through the process of creating an application that accesse
 
 ## Managing Transactions
 
-Hands on the [tutorial](https://spring.io/guides/gs/managing-transactions/). Managing Transactions.
+Hands-on the [tutorial](https://spring.io/guides/gs/managing-transactions/). Managing Transactions.
 
 **Dependencies:**
 
@@ -97,7 +97,7 @@ This guide walks you through the process of wrapping database operations with no
 
 ## Handling Form Submission
 
-Hands on the [tutorial](https://spring.io/guides/gs/handling-form-submission/). Handling Form Submission.
+Hands-on the [tutorial](https://spring.io/guides/gs/handling-form-submission/). Handling Form Submission.
 
 **Dependencies:**
 
@@ -110,7 +110,7 @@ This guide walks you through the process of using Spring to create and submit a 
 
 ## Messaging Stomp Websocket
 
-Hands on the [tutorial](https://spring.io/guides/gs/messaging-stomp-websocket/). Using WebSocket to build an interactive web application.
+Hands-on the [tutorial](https://spring.io/guides/gs/messaging-stomp-websocket/). Using WebSocket to build an interactive web application.
 
 **Dependencies:**
 
@@ -124,7 +124,7 @@ This guide walks you through the process of creating a “Hello, world” applic
 
 ## REST Service CORS
 
-Hands on the [tutorial](https://spring.io/guides/gs/rest-service-cors/). Enabling Cross Origin Requests for a RESTful Web Service.
+Hands-on the [tutorial](https://spring.io/guides/gs/rest-service-cors/). Enabling Cross Origin Requests for a RESTful Web Service.
 
 **Dependencies:**
 
@@ -138,7 +138,7 @@ This guide walks you through the process of creating a “Hello, World” RESTfu
 
 ## Spring Boot Docker
 
-Hands on the [tutorial](https://spring.io/guides/gs/spring-boot-docker/). Spring Boot with Docker.
+Hands-on the [tutorial](https://spring.io/guides/gs/spring-boot-docker/). Spring Boot with Docker.
 
 **Dependencies:**
 
