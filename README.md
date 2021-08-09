@@ -145,5 +145,3 @@ Hands on the [tutorial](https://spring.io/guides/gs/spring-boot-docker/). Spring
 - Spring Web
 
 This guide walks you through the process of building a Docker image for running a Spring Boot application.
-
-- Set up a Spring Boot Application
