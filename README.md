@@ -149,6 +149,8 @@ This guide walks you through the process of building a Docker image for running 
 
 ## Accessing Data MySQL
 
-Create a MySQL database, build a Spring application, and connect it to the newly created database.
+Hands-on the [tutorial](https://spring.io/guides/gs/accessing-data-mysql/). Create a MySQL database, build a Spring application, and connect it to the newly created database.
 
 Use MySQL Commond Line Client on windows 10.
+
+[@RequestBody 和@RequestParam 的请求方式 get 和 post 关系](https://blog.csdn.net/qfikh/article/details/88553603)
