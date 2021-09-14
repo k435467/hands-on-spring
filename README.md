@@ -12,6 +12,7 @@
   - [REST Service CORS](#rest-service-cors)
   - [Spring Boot Docker](#spring-boot-docker)
   - [Accessing Data MySQL](#accessing-data-mysql)
+  - [Accessing Data MongoDB](#accessing-data-mongodb)
 
 ## Quick Start
 
@@ -154,3 +155,7 @@ Hands-on the [tutorial](https://spring.io/guides/gs/accessing-data-mysql/). Crea
 Use MySQL Commond Line Client on windows 10.
 
 [@RequestBody 和@RequestParam 的请求方式 get 和 post 关系](https://blog.csdn.net/qfikh/article/details/88553603)
+
+## Accessing Data MongoDB
+
+Hands-on the [tutorial](https://spring.io/guides/gs/accessing-data-mongodb/). This guide walks you through the process of using Spring Data MongoDB to build an application that stores data in and retrieves it from MongoDB, a document-based database.
