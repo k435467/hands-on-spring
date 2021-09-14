@@ -159,3 +159,5 @@ Use MySQL Commond Line Client on windows 10.
 ## Accessing Data MongoDB
 
 Hands-on the [tutorial](https://spring.io/guides/gs/accessing-data-mongodb/). This guide walks you through the process of using Spring Data MongoDB to build an application that stores data in and retrieves it from MongoDB, a document-based database.
+
+> Warning: the "mongo" shell has been superseded by "mongosh"
